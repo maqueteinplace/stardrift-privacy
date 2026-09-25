@@ -1,6 +1,6 @@
 # Privacy Policy — Stardrift
 
-*Last updated: September 24, 2026*  
+*Last updated: September 25, 2026*  
 *Para a versão em Português (Brasil), consulte [PRIVACY.pt-BR.md](PRIVACY.pt-BR.md).*
 
 ---
@@ -9,25 +9,24 @@
 
 **Stardrift** is an action space shooter game developed for Android and web platforms.
 
-We are fully committed to protecting your privacy. Stardrift is designed with a **Privacy by Design** and **Zero-Data Collection** approach. The application does not collect, transmit, store, share, or sell any personal information or device data.
+We are fully committed to protecting player privacy. Stardrift is designed with a **Privacy by Design** approach. The developer does not collect, store on proprietary servers, or sell any personal data from players.
 
 - **No user registration or accounts required**
-- **No collection of Personally Identifiable Information (PII)**
-- **No third-party advertisements or ad networks**
-- **No behavioral tracking, analytics SDKs, or telemetry beacons**
-- **No remote servers storing player profiles**
+- **No collection of Personally Identifiable Information (PII) by the developer**
+- **Advertisements served by standard digital advertising partner networks**
+- **No invasive behavioral tracking or personal profiling**
+- **No remote servers storing player profiles or personal data**
 
 ---
 
-## 2. Information We Do NOT Collect
+## 2. Information We Do NOT Collect Directly
 
-In accordance with Google Play Developer Policies and global privacy regulations (including GDPR, LGPD, and COPPA), Stardrift does not collect or process:
+In accordance with Google Play Developer Policies and global privacy regulations (including GDPR, LGPD, and COPPA), the developer of Stardrift does not collect, store, or process on its own servers:
 - Names, usernames, or contact details
 - Email addresses, phone numbers, or physical addresses
 - Passwords, credentials, or authentication tokens
 - Financial, credit card, or payment data
-- Precise or coarse location data
-- Device hardware identifiers, advertising IDs, or biometric data
+- Precise geographic location data (GPS)
 
 ---
 
@@ -40,7 +39,7 @@ Stardrift does not request or require any dangerous or privacy-sensitive Android
 - **No Phone State**: Does not monitor phone calls or carrier details.
 - **No Media / Photo Storage**: Does not inspect personal photos, media, or shared documents.
 
-If network access is used, it is strictly limited to loading standard game assets and web resources.
+When network connectivity is used, it is strictly to load game assets and communicate with advertising partner services.
 
 ---
 
@@ -54,10 +53,13 @@ All game progression (such as unlocked stages, scores, ship upgrades, and custom
 
 ---
 
-## 5. No Advertising & No Analytics
+## 5. Advertising & Partner Services
 
-- **No Ads**: Stardrift contains no third-party advertisements, banners, interstitials, or rewarded videos.
-- **No Analytics / Tracking**: Stardrift does not integrate any third-party behavioral analytics, telemetry services, or marketing SDKs (such as Google Analytics for Firebase, Adjust, or AppsFlyer).
+The application may display advertisements served by digital advertising partner networks (such as Google advertising services).
+
+- **Ad Delivery:** To facilitate ad delivery, manage frequency capping, and measure performance, advertising providers may process standard technical device identifiers (such as the operating system's advertising ID) in accordance with their respective privacy policies.
+- **User Controls:** You can manage your ad personalization preferences or reset your advertising ID at any time in your device settings (*Settings → Google → Ads*).
+- **Analytics:** The game does not integrate additional invasive telemetry or user profiling tools.
 
 ---
 
@@ -75,19 +77,19 @@ Because all game data resides exclusively in your device's local application sto
 
 ## 7. Children's Privacy (Google Play Families Policy / COPPA / LGPD)
 
-Stardrift is suitable for players of all ages, including children and families. Because the game does not collect, request, or share any personal information from any user, it is fully compliant with:
+Stardrift is suitable for players of all ages, including children and families. The game complies with:
 - The **Google Play Families Policy**
 - The United States **Children's Online Privacy Protection Act (COPPA)**
 - The Brazilian **General Data Protection Law (LGPD — Art. 14)**
 - The European Union **General Data Protection Regulation (GDPR)**
 
-We do not knowingly collect any data from children under the age of 13 (or under the applicable age limit in your jurisdiction).
+We do not knowingly collect any personally identifiable data from children under the age of 13 (or under the applicable age limit in your jurisdiction).
 
 ---
 
 ## 8. Changes to this Policy
 
-If this Privacy Policy is updated in the future (for example, if optional online features are introduced), the revised version will be published here with an updated revision date.
+If this Privacy Policy is updated in the future, the revised version will be published here with an updated revision date.
 
 ---
 
