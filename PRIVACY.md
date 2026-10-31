@@ -1,19 +1,20 @@
 # Privacy Policy — Stardrift
 
-*Last updated: September 25, 2026*  
+*Last updated: October 31, 2026*
+
 *Para a versão em Português (Brasil), consulte [PRIVACY.pt-BR.md](PRIVACY.pt-BR.md).*
 
 ---
 
 ## 1. Overview & Data Safety Commitment
 
-**Stardrift** is an action space shooter game developed for Android and web platforms.
+**Stardrift** is an action space shooter game developed for Android and web platforms for people aged 13 and older. The game is not directed to children under 13.
 
 We are fully committed to protecting player privacy. Stardrift is designed with a **Privacy by Design** approach. The developer does not collect, store on proprietary servers, or sell any personal data from players.
 
 - **No user registration or accounts required**
 - **No collection of Personally Identifiable Information (PII) by the developer**
-- **Advertisements served by standard digital advertising partner networks**
+- **Contextual or personalized ads, depending on privacy choices and applicable settings**
 - **No invasive behavioral tracking or personal profiling**
 - **No remote servers storing player profiles or personal data**
 
@@ -51,14 +52,18 @@ All game progression (such as unlocked stages, scores, ship upgrades, and custom
 - No personal information is contained within your game progress.
 - You have complete control over this data at all times.
 
+This does not include the technical data processed by the advertising SDK described in the next section.
+
 ---
 
 ## 5. Advertising & Partner Services
 
-The application may display advertisements served by digital advertising partner networks (such as Google advertising services).
+The application may display ads through Google AdMob, served by the Google Mobile Ads SDK. Depending on player privacy choices and applicable settings, ads may be contextual or personalized.
 
-- **Ad Delivery:** To facilitate ad delivery, manage frequency capping, and measure performance, advertising providers may process standard technical device identifiers (such as the operating system's advertising ID) in accordance with their respective privacy policies.
-- **User Controls:** You can manage your ad personalization preferences or reset your advertising ID at any time in your device settings (*Settings → Google → Ads*).
+- **SDK Data:** Google Mobile Ads may process technical and usage data related to ad requests, delivery, and measurement, including IP address, advertising or other device identifiers, device information, diagnostics, and ad interaction data. Google processes this data according to its policies and privacy settings.
+- **Consent and choices:** On Android, the UMP SDK displays applicable consent messages. When required, **Settings → Privacy → Ad and data preferences** opens the privacy choices form. Ads are only requested when the SDK indicates they may be requested.
+- **Device controls:** You can manage ad personalization or reset your advertising ID in your device settings (*Settings → Google → Ads*), when available.
+- **Google policy:** [Google Privacy Policy](https://policies.google.com/privacy).
 - **Analytics:** The game does not integrate additional invasive telemetry or user profiling tools.
 
 ---
@@ -75,15 +80,9 @@ Because all game data resides exclusively in your device's local application sto
 
 ---
 
-## 7. Children's Privacy (Google Play Families Policy / COPPA / LGPD)
+## 7. Intended audience
 
-Stardrift is suitable for players of all ages, including children and families. The game complies with:
-- The **Google Play Families Policy**
-- The United States **Children's Online Privacy Protection Act (COPPA)**
-- The Brazilian **General Data Protection Law (LGPD — Art. 14)**
-- The European Union **General Data Protection Regulation (GDPR)**
-
-We do not knowingly collect any personally identifiable data from children under the age of 13 (or under the applicable age limit in your jurisdiction).
+The game is intended for people aged 13 and older and is not directed to children under 13. If the age rating, local rules, or Google Play listing applicable in your region set another limit, the local limit applies. The developer does not ask for age information or knowingly collect personal data from children.
 
 ---
 
